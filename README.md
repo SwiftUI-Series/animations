@@ -22,9 +22,6 @@ We encourage you to participate in the SwiftUI animation event and show your ski
 
 Once you've uploaded your code to a public GitHub repo, make a PR and add a link below.
 
-| Link to Code  | Attendee Name    | Twitter                                   |
-| ------------- |:----------------:| ------------------------------------------------:|
-| Link to repo  | Jordi Bruin     | [Twitter](https://www.twitter.com/jordibruin)    |
-
-
-
+| Link to Code  | Attendee Name    | Twitter                                   | Link to Screen recording |Beginner / Pro | 
+| ------------- |:----------------:| ------------------------------------------------:|---------:|-----------------:|
+[Link to repo]()  | Jordi Bruin | [Twitter](https://www.twitter.com/jordibruin) | [Screen recording]()       | Pro |
