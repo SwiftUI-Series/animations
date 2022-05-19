@@ -1,6 +1,15 @@
 ![Artboard](https://www.swiftuiseries.com/images/events/banner-animations.png)
 
 # Animations
+
+- Make a micro interaction animation for a like / support / clap button as seen below
+- Get creative because the main goal is to delight users with a fun little animation
+- You can use <u><a href="https://apps.apple.com/us/app/motionscape-animation-studio/id1616840951">MotionsScape</a></u> in your solution to help you select your SwiftUI animation easings/interpolations.
+- Upload your code to a public GitHub repo and add it to the README of this repo in a PR
+- You can check out [MotionScape's code](https://github.com/GetStream/motionscape-app)
+               
+# The Challenge
+
 Twitter’s like and Medium’s cumulative clap reaction animations help people to express emotions and react to tweets and articles in ways words cannot. In this SwiftUI Series animation challenge, your job is to recreate/clone, or build something similar to the following animations using <a href="https://apps.apple.com/us/app/motionscape-animation-studio/id1616840951"> 
      MotionsScape - Animation Studio (Prototype SwiftUI animations)</a> and SwiftUI:
 
@@ -22,6 +31,6 @@ We encourage you to participate in the SwiftUI animation event and show your ski
 
 Once you've uploaded your code to a public GitHub repo, make a PR and add a link below.
 
-| Link to Code  | Attendee Name    | Twitter                                   | Link to Screen recording |Beginner / Pro | 
+| Link to Code  | Attendee Name    | Twitter                                    |Beginner / Pro | 
 | ------------- |:----------------:| ------------------------------------------------:|---------:|-----------------:|
-[Link to repo]()  | Jordi Bruin | [Twitter](https://www.twitter.com/jordibruin) | [Screen recording]()       | Pro |
+[Link to repo]()  | Jordi Bruin | [Twitter](https://www.twitter.com/jordibruin)        | Pro |
