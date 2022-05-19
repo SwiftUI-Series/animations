@@ -15,11 +15,11 @@ Twitter’s like and Medium’s cumulative clap reaction animations help people 
 
   1. **Twitter’s Like Reaction Animation/Interaction.** 
 
-![Twitter’s Like Reaction Animation/Interaction ](https://github.com/GetStream/swiftui-series-animation-challenge/blob/main/Misc/TwitterLikeReaction.gif)<a href=""> Amos' Solution</a>
+![Twitter’s Like Reaction Animation/Interaction ](https://github.com/GetStream/swiftui-series-animation-challenge/blob/main/Misc/TwitterLikeReaction.gif)
      
   2. **Medium’s Cumulative Clap Reaction Animation/Interaction.**
       
-      ![Medium’s Cumulative Clap Reaction Animation/Interaction ](https://github.com/GetStream/swiftui-series-animation-challenge/blob/main/Misc/mediumClap.gif)<a href=""> Amos' Solution</a>
+      ![Medium’s Cumulative Clap Reaction Animation/Interaction ](https://github.com/GetStream/swiftui-series-animation-challenge/blob/main/Misc/mediumClap.gif)
 
 You can use <a href="https://apps.apple.com/us/app/motionscape-animation-studio/id1616840951"> 
      MotionsScape</a> in your solution to help you select your SwiftUI animation easings/interpolations. 
@@ -32,5 +32,5 @@ We encourage you to participate in the SwiftUI animation event and show your ski
 Once you've uploaded your code to a public GitHub repo, make a PR and add a link below.
 
 | Link to Code  | Attendee Name    | Twitter                                    |Beginner / Pro | 
-| ------------- |:----------------:| ------------------------------------------------:|---------:|-----------------:|
+| ------------- |:----------------:| ------------------------------------------------:|---------:|
 [Link to repo]()  | Jordi Bruin | [Twitter](https://www.twitter.com/jordibruin)        | Pro |
