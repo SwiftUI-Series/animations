@@ -35,4 +35,4 @@ Once you've uploaded your code to a public GitHub repo, make a PR and add a link
 | ------------- |:----------------:| ------------------------------------------------:|---------:|
 [Link to repo](https://github.com/chFlorian/SwiftUISeries-Animation/tree/main)  | Florian Schweizer | [@FloWritesCode](https://www.twitter.com/FloWritesCode)        | Pro |
 [Link to repo](https://github.com/Yrban/animations)  | Bryan Marshall | [@AlelinApps](https://twitter.com/AlelinApps)        | Pro |
-[Link to repo]()  | Your Name Here | [Twitter]()        | Beginner/Pro |
+
