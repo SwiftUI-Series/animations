@@ -38,5 +38,6 @@ Once you've uploaded your code to a public GitHub repo, make a PR and add a link
 [Link to repo](https://github.com/DaemonLoki/SwiftUISeries-Animations)  | Stefan Blos | [@stefanjblos](https://twitter.com/stefanjblos)        | Pro |
 [Link to repo](https://github.com/lightman73/beer-like-button)  | Francesco Marini | [@lightman_73](https://twitter.com/lightman_73)        | Pro |
 [Link to repo](https://github.com/ryanlintott/DefibHeart)  | Ryan Lintott | [@ryanlintott](https://twitter.com/ryanlintott)        | Pro |
+[Link to repo](https://github.com/coughski/SwiftUISeries-Animations)  | Kuba Szulaczkowski | [@coughski](https://twitter.com/coughski)        | Intermediate |
 
 
